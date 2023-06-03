@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+
+  background-color: #23252c;
+  display: cover;
+  height: 100vh;
+  width: 100%;
+  color: aliceblue;
 }
 
 .App-logo {
@@ -35,4 +41,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card--image {
+  width: 20%;
+  object-fit: cover;
 }

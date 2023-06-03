@@ -1,6 +1,9 @@
+import cardImage from '../assets/profilePic.jpeg'
+
 function Info() {
   return (
     <div>
+      <img className='card--image' src={cardImage} alt='profile' />
       <h1>Ayazhan Kadessova</h1>
       <h2>Frontend Developer</h2>
       <p>
