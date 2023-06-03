@@ -1,6 +1,6 @@
 function Skills() {
   return (
-    <div>
+    <div className='skills'>
       <h1>Skills</h1>
       <p>
         Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
