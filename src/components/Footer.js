@@ -1,14 +1,11 @@
 function Footer() {
   return (
-    <div>
-      <h1>Ayazhan Kadessova</h1>
-      <h2>Frontend Developer</h2>
-      <a href='https://github.com/ayazhankadessova' className='my-github'>
-        ayazhankad
-      </a>
-      {/* <a href='https://github.com/ayazhankadessova' className='my-email'></a>
-      <a href='https://github.com/ayazhankadessova' className='my-linkedin'></a> */}
-    </div>
+    <footer>
+      <button class='bi bi-youtube'></button>
+      <button class='bi bi-facebook'></button>
+      <button class='bi bi-github'></button>
+      <button class='bi bi-folder-plus'></button>
+    </footer>
   )
 }
 
