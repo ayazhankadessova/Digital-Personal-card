@@ -1,7 +1,8 @@
 # Digital-Personal-Card
 
 Static Page of Digital Personal Card - second project developed using react.js based on the below [prototype made in Figma](https://www.figma.com/community/file/1246700834026066266).
-Pratice to understand React :)
+
+Practice to understand React :)
 
 <p align="center">
   <img src="Prototype.png" width="400" title="Prototype for Card" />
@@ -17,8 +18,10 @@ Pratice to understand React :)
 
 ## How to use
 
-1. Clone this repo and run `npm install` to install the dependencies.
-2. Run `npm run div` to start the application.
+1. Clone this repo 
+2. run `npm install` to install the dependencies.
+3. Change info/text/picture
+5. Run `npm run div` to start the application.
 
 ## Improve
 
