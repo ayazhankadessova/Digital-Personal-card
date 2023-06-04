@@ -23,3 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /draft
+
+# Local Netlify folder
+.netlify
