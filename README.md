@@ -1,9 +1,10 @@
 # Digital-Personal-Card
 
 Static Page of Digital Personal Card - second project developed using react.js based on the below [prototype made in Figma](https://www.figma.com/community/file/1246700834026066266).
+Pratice to understand React :)
 
 <p align="center">
-  <img src="Prototype.png" width="400" title="Prototype for Card">
+  <img src="Prototype.png" width="400" title="Prototype for Card" />
 </p>
 
 ## What I learned:
