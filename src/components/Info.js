@@ -2,7 +2,7 @@ import cardImage from '../assets/profilePic.jpeg'
 
 function Info() {
   return (
-    <div className='Info'>
+    <div className='section--info'>
       <img className='card--image' src={cardImage} alt='profile' />
       <h1>Ayazhan Kadessova</h1>
       <h4>Frontend Developer</h4>
