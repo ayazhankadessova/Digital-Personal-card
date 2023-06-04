@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
+  color: #2b283a;
 }
 #root {
   margin: 0;
@@ -66,11 +67,11 @@
 .section--info > .button-group {
   display: flex;
   justify-content: space-between;
-  margin: 0 35px;
+  margin: 5px 35px;
 }
 .section--info button {
   border-radius: 8px;
-  padding: 9px 13px 9px 11px;
+  padding: 9px 25px 9px 28px;
 }
 .btn-mail {
   border: gray;
@@ -100,7 +101,7 @@
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
-  color: #2b283a;
+  /* color: #2b283a; */
   margin-bottom: 5px;
 }
 
@@ -108,7 +109,7 @@
   /* font-family: 'Inter'; */
   font-style: normal;
   font-weight: 400;
-  font-size: 10.24px;
+  /* font-size: 1px; */
   line-height: 150%;
 
   /* or 15px */
@@ -122,13 +123,13 @@
   font-weight: 700;
   font-size: 16px;
   line-height: 150%;
-  color: #2b283a;
+  /* color: #2b283a; */
   margin-bottom: 5px;
 }
 
 .section--skills > ul {
   /* font-family: 'Inter'; */
-  padding-left: 1.5rem;
+  padding-left: 1rem;
   color: #4a4e74;
 }
 

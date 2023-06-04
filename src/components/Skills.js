@@ -10,7 +10,8 @@ function Skills() {
       <ul>
         <li>Java, Python</li>
         <li>JavaScript, React</li>
-        <li>CSS,HTML</li>
+        <li>CSS, HTML</li>
+        <li>Curiosity & Independent Learning : )</li>
       </ul>
     </div>
   )

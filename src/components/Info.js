@@ -13,10 +13,26 @@ function Info() {
       </p>
       <div className='button-group'>
         <button className='btn-mail'>
-          <i className='bi bi-envelope-fill'></i> E-mail{' '}
+          <a
+            href='mailto:kadessovaayazhan@gmail.com'
+            target='_blank'
+            rel='noopener noreferrer'
+            style={{ textDecoration: 'none' }}
+          >
+            <i className='bi bi-envelope-fill'></i>{' '}
+            <span style={{ color: 'white' }}>Email</span>
+          </a>
         </button>
         <button className='btn-linkedin'>
-          <i className='bi bi-linkedin'></i> Linkedin{' '}
+          <a
+            href='https://www.linkedin.com/in/ayazhankad/'
+            target='_blank'
+            rel='noopener noreferrer'
+            style={{ textDecoration: 'none' }}
+          >
+            <i className='bi bi-linkedin'></i>{' '}
+            <span style={{ color: 'white' }}>Linkedin</span>
+          </a>
         </button>
       </div>
     </div>
