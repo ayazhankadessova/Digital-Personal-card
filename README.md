@@ -18,3 +18,8 @@ Static Page of Digital Personal Card - second project developed using react.js b
 
 1. Clone this repo and run `npm install` to install the dependencies.
 2. Run `npm run div` to start the application.
+
+## Improve
+
+1. Make css not just alike, but more comprehensive :)
+2. Add some non-static components 
