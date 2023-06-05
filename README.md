@@ -4,6 +4,8 @@ Static Page of Digital Personal Card - second project developed using react.js b
 
 Practice to understand React :)
 
+**Deployed: https://digital-personal-card.netlify.app**
+
 <p align="center">
   <img src="Prototype.png" width="400" title="Prototype for Card" />
 </p>
