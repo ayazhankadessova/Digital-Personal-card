@@ -20,12 +20,12 @@ Practice to understand React :)
 
 ## How to use
 
-1. Clone this repo 
+1. Clone this repo
 2. run `npm install` to install the dependencies.
 3. Change info/text/picture
-5. Run `npm run div` to start the application.
+4. Run `npm run div` to start the application.
 
 ## Improve
 
 1. Make css not just alike, but more comprehensive :)
-2. Add some non-static components 
+2. Add some non-static components
