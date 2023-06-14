@@ -23,7 +23,7 @@ Practice to understand React :)
 1. Clone this repo
 2. run `npm install` to install the dependencies.
 3. Change info/text/picture
-4. Run `npm run div` to start the application.
+4. Run `npm run dev` to start the application.
 
 ## Improve
 
